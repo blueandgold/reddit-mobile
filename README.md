@@ -1,4 +1,4 @@
-reddit-mobile
+aaareddit-mobile
 =============
 
 [![Build Status](https://travis-ci.org/reddit/reddit-mobile.svg?branch=master)](https://travis-ci.org/reddit/reddit-mobile)
