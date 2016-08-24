@@ -15,7 +15,7 @@ RUN echo "deb-src http://archive.ubuntu.com/ubuntu trusty main" >> /etc/apt/sour
 ADD package.json package.json
 RUN NODE_ENV=development npm install
 
-RUN npm config set registry http://registry.npmjs.org/
+# RUN npm config set registry http://registry.npmjs.org/
 
 ADD . .
 RUN npm run build
