@@ -1,4 +1,4 @@
-## Dockerfile for reddit-mobile
+### Dockerfile for reddit-mobile
 
 FROM nodesource/vivid:4.2.3
 
